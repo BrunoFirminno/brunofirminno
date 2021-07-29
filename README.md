@@ -5,8 +5,8 @@
 - 😄 Pronouns: Ele/Dele
 
 <div>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunofirminno&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofirminno&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/brunofirminno">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunofirminno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofirminno&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
