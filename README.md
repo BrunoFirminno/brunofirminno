@@ -1,8 +1,6 @@
 ## Hello! I´m Bruno Firmino
 
-- 📝 Ainda sou um iniciante no mundo da programação
-- 📚 Estou estudando: Javascript e react native
-- 😄 Pronouns: Ele/Dele
+ - 📚 Estudando no momento: Javascript e react native
 
 <div>
   <a href="https://github.com/brunofirminno">
