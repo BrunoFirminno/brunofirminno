@@ -1,7 +1,5 @@
 ## Hello world! I´m Bruno Firmino
 
- - 📚 Estudando no momento: Javascript e react native
-
 <div>
   <a href="https://github.com/brunofirminno">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunofirminno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -17,3 +15,5 @@
 </div>
   
   ##
+ 
+  - 📚 Estudando no momento: Javascript e react native
