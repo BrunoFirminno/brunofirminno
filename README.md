@@ -1,4 +1,4 @@
-## Hello! I´m Bruno Firmino
+## Hello world! I´m Bruno Firmino
 
  - 📚 Estudando no momento: Javascript e react native
 
