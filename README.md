@@ -7,16 +7,6 @@
 </div>
 
    ##
- 
-   <p align = "left">
-     <Strong> Ferramentas: VScode, Figma, Github </strong>
-  </p>
-
-  <p align = "left">
-   <Strong> Estudando no momento: Javascript e react native </strong>
-   </p>
-  
-  ##
   
 <div style="display: inline_block"><br>
   <img align="center" alt="bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
